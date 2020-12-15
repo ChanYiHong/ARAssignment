@@ -7,7 +7,7 @@ vuforia-sdk
               |-- Assets
               |-- CrossPlatform
               |-- Media
-              |-- <Platform>
+              |-- Android
               |-- README.md
               |-- license.txt
 ```
